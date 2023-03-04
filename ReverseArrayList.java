@@ -4,7 +4,7 @@
     Prompt the user input from the terminal.
      
     Sample Input:
-    Enter how many numbers you want: 
+  Enter how many numbers you want: 
     5
     Enter Number 0
     995
